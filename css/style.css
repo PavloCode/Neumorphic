@@ -226,6 +226,7 @@ body {
 
 .hero-wrapp-images {
     position: relative;
+    overflow: hidden;
 }
 
 .wrapp-hero-button {
